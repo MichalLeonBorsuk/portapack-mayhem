@@ -68,3 +68,7 @@ env/
 
 # Other
 *.bak
+firmware/tools/make_airlines_db/airlines.db
+firmware/tools/make_airlines_db/updateDatabase.sh
+firmware/tools/make_icao24_db/icao24.db
+firmware/tools/make_icao24_db/updateDatabase.sh
